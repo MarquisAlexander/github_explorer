@@ -1,5 +1,5 @@
 <h2 align="center">
-  🚀 Clone-Discord
+  🚀 Github Explorer
 </h2>
 
 <p align="center">
